@@ -1,5 +1,5 @@
 <h2>What's up</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&multiline=true&lines=There+is+my+Github;Thanks+for+view" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&lines=There+is+my+Github;Thanks+for+view" alt="Typing SVG" /></a>
 <br>
 
 - 👋 Hi, I’m @VanNgoc1120
