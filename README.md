@@ -1,6 +1,6 @@
 <h2>What's up</h2>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+you+%3C3;There+is+my+Github;Thanks+for+view;ABC"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"
 </p>
 <br>
 <br>
