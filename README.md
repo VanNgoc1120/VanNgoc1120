@@ -1,6 +1,6 @@
 <h2>What's up</h2>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p>
 <br>
 <br>
