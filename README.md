@@ -1,8 +1,5 @@
 <h2>What's up</h2>
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
-</p>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&multiline=true&lines=There+is+my+Github;Thanks+for+view" alt="Typing SVG" /></a>
 <br>
 
 - 👋 Hi, I’m @VanNgoc1120
